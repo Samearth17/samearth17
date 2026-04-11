@@ -310,19 +310,12 @@ Full-time opportunities (Remote/On-site) • Collaborations & mentorship • Ope
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212281763-3a328f3b-74e9-4fc3-b841-4c393d2716ae.gif" width="900">
-
 <div align="center">
 
 **"Intelligence is the ability to see what matters."**
 
 Transforming data into insights and ideas into products.
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-
-**Thanks for visiting! Don't forget to star if you like my work.**
 
 </div>
 
