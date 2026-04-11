@@ -1,152 +1,346 @@
 <div align="center">
 
-# 👋 Samarth Mukhija
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Solutions;Full-Stack+Developer+%26+AI+Engineer;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
-### Full-Stack Developer & AI Engineer | Finalist B.Tech CSE
-### Building scalable systems that solve real problems
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a713-7c3f-4404-b615-69f99cd50e90.gif" width="80" style="margin: 20px 0;">
+
+# Samarth Mukhija
+
+**Full-Stack Developer • AI Engineer • FinTech Specialist**
+
+**B.Tech CSE @ BVCE Pune (CGPA: 9.1/10) | SDE Intern @ Clarista**
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-mukhija)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukhijasamarth@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samearth17)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/samearth17)
 
-![Profile Views](https://komarev.com/ghpvc/?username=samearth17&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=samearth17&color=58a6ff&style=flat-square)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
+
+---
+
+## About Me
 
 ```python
 class Samarth:
     def __init__(self):
         self.name        = "Samarth Mukhija"
         self.title       = "Full-Stack Developer & AI Engineer"
-        self.education   = "B.Tech CSE @ BVCE Pune (2023–2027) | CGPA: 9.1/10"
-        self.location    = "🇮🇳 Pune, India"
+        self.education   = "B.Tech CSE @ BVCE Pune (2023-2027) | CGPA: 9.1/10"
+        self.location    = "Pune, India"
         self.current_role = "SDE Intern @ Clarista (FinTech AI)"
+        
         self.languages   = ["Python", "JavaScript", "SQL"]
         self.frameworks  = ["Django", "REST APIs", "PostgreSQL"]
-        self.specialties = ["Data Pipelines", "NLP", "Backend Architecture", "AI Integrations"]
-        self.passion     = "Building intelligent systems at scale"
+        self.specialties = [
+            "Data Pipelines",
+            "NLP & Machine Learning",
+            "Backend Architecture",
+            "AI Integrations"
+        ]
+        self.passion = "Building intelligent systems at scale"
+    
+    def get_channels(self):
+        return {
+            'email': 'mukhijasamarth@gmail.com',
+            'linkedin': 'linkedin.com/in/samarth-mukhija',
+            'github': 'github.com/samearth17'
+        }
 
-    def reach_out(self):
-        return "Let's collaborate on something amazing! 🚀"
-
-if __name__ == "__main__":
-    me = Samarth()
-    print(me.reach_out())
+me = Samarth()
 ```
 
 ---
 
-## 💼 Experience
+---
 
-| Period | Role | Company | Focus Area |
-|--------|------|---------|-----------|
-| **Mar 2025 – Present** | SDE Intern | **Clarista** | AI Pipelines, Python, Django |
-| **Jun – Sep 2025** | SDE Intern | **MyTegami (Japan)** | Full-Stack Web Development |
-| **Jun – Aug 2025** | SDE Intern | **Bluestock** | Backend Systems, Database Optimization |
+## Core Expertise
 
-**Financial Data Expertise:** Worked with **Tata Capital · Lazard · Edelweiss** on enterprise-scale financial data systems and analytics platforms.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Full--Stack-Developer-0077B5?style=for-the-badge&logo=code" />
+      <p><strong>End-to-End Development</strong></p>
+      <p>Django • REST APIs • PostgreSQL</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/AI--Powered-Solutions-0F9D58?style=for-the-badge&logo=tensorflow" />
+      <p><strong>Machine Learning</strong></p>
+      <p>NLP • TensorFlow • Data Science</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/FinTech-Specialist-FF7722?style=for-the-badge&logo=database" />
+      <p><strong>Financial Systems</strong></p>
+      <p>Real-time Analytics • Trading APIs</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Excellence-Proven-DC143C?style=for-the-badge&logo=star" />
+      <p><strong>Track Record</strong></p>
+      <p>9.1 CGPA • Hackathon Winner</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+---
 
-### 🤖 AI Resume Scorer & Job-Fit Predictor  
-**Intelligent matching system for resumes and job descriptions**
-- NLP-powered analysis using TF-IDF + cosine similarity
-- Skill-gap analysis with actionable feedback
+## Professional Experience
+
+<div align="center">
+
+| Period | Role | Company | Tech Stack |
+|--------|------|---------|------------|
+| Mar 2025 - Present | SDE Intern | Clarista | Python, Django, AI/ML |
+| Jun - Sep 2025 | Full-Stack Developer | MyTegami (Japan) | JavaScript, React, Node.js |
+| Jun - Aug 2025 | Backend Developer | Bluestock | Django, PostgreSQL, APIs |
+
+</div>
+
+**Enterprise Clients:** Tata Capital • Lazard • Edelweiss (Financial Data Systems, Real-time Analytics, Enterprise APIs)
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+### AI Resume Scorer & Job-Fit Predictor
+**Intelligent Resume-Job Matching Engine**
+
+```
+┌────────────────────────────────────┐
+│  Resume Input                      │
+│         |                          │
+│  NLP Analysis (TF-IDF)             │
+│         |                          │
+│  Similarity Scoring                │
+│         |                          │
+│  Match Score + Gap Analysis        │
+└────────────────────────────────────┘
+```
+
+- TF-IDF + Cosine Similarity matching
+- Skill-gap analysis with actionable recommendations
 - RESTful API with Django backend
-- `Python` `Django` `NLP` `TF-IDF` `PostgreSQL` `REST API`
-- ⭐ [View Repository](https://github.com/samearth17)
+- Real-time processing pipeline
 
-### 📈 IPO Recommendation Engine  
-**FinTech-ready investment decision platform**
-- 3 investor personas with risk-adjusted recommendations
-- Real-time financial data processing with Pandas
-- Ranked API responses for better UX
-- `Django` `Pandas` `PostgreSQL` `Financial Analytics`
-- ⭐ [View Repository](https://github.com/samearth17)
+Stack: `Python` `Django` `NLP` `PostgreSQL` `REST API`  
+[View Repository](https://github.com/samearth17)
 
-### 📊 Campus Event Analytics Dashboard  
-**Real-time event analytics & prediction platform**
-- Live registration insights with demographic breakdowns
-- 45% improvement in attendance prediction accuracy
+---
+
+### IPO Recommendation Engine
+**FinTech Investment Intelligence Platform**
+
+```
+┌────────────────────────────────────┐
+│  Market Data Input                 │
+│         |                          │
+│  Investor Persona Detection        │
+│  (Conservative/Moderate/Agg)       │
+│         |                          │
+│  Risk-Adjusted Scoring             │
+│         |                          │
+│  Ranked Recommendations            │
+└────────────────────────────────────┘
+```
+
+- 3 investor personas with customized returns
+- Real-time financial data processing
+- Ranked API with optimized UX
+- Pandas-powered analytics engine
+
+Stack: `Django` `Pandas` `PostgreSQL` `Finance API`  
+[View Repository](https://github.com/samearth17)
+
+---
+
+### Campus Event Analytics Dashboard
+**Real-Time Event Analytics & ML Predictions**
+
+```
+┌────────────────────────────────────┐
+│  Live Event Registrations          │
+│         |                          │
+│  Real-time Dashboards              │
+│  (Demographics, Trends)            │
+│         |                          │
+│  ML Prediction Model               │
+│         |                          │
+│  45% Accuracy Improvement          │
+└────────────────────────────────────┘
+```
+
+- Live demographic visualizations
+- ML-powered attendance predictions (45% accuracy boost)
 - Background task processing for large datasets
-- `Django` `Matplotlib` `SQLite` `Background Tasks`
-- ⭐ [View Repository](https://github.com/samearth17)
+- Historical trend analysis
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages:** Python • JavaScript • SQL • HTML/CSS  
-**Backend:** Django • Django REST Framework • PostgreSQL • MySQL • MongoDB  
-**AI/ML:** TensorFlow • Pandas • NumPy • scikit-learn • NLP  
-**Tools:** Git • Docker • Postman • VS Code • Figma
+Stack: `Django` `Matplotlib` `SQLite` `Background Tasks`  
+[View Repository](https://github.com/samearth17)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## Technology Stack
 
 <div align="center">
 
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samearth17&show_icons=true&theme=algolia&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samearth17&layout=compact&theme=algolia&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true)
+**Backend & Frameworks**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognitions
-
-- 🥇 **Hackathon Winner** — Realms AR/VR Hackathon 2025
-- 🥇 **National Winner** — Epic IQ Challenge India 2020  
-- 🥈 **State-Level Runner-up** — Rajasthan Football Championship
-- 🎯 **Academic Excellence** — 9.1 CGPA (Top of Batch)
-- 📜 **Multiple Certifications** — IoT, Cloud AI, Oracle, MongoDB
-
 ---
 
-## 📚 Certifications & Continuous Learning
-
-`Internet of Things — NPTEL`  |  `McKinsey Forward Program`  |  `Oracle Cloud AI Foundation`  |  `PyScript — Udemy`  |  `MongoDB University`
-
----
-
-## 🎓 Leadership & Community
-
-- **Event Management Co-Head** @ Blotic 2024–2025 — Organized fests for 1000+ attendees
-- **Vice Captain** — College Football Team (Multiple inter-college victories)
-- **Technical Head** @ Financity 2023–24 — Website development & tech infrastructure
-- **Active Open Source Contributor** — Django, Python ecosystem
-
----
+## GitHub Analytics
 
 <div align="center">
 
----
+![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samearth17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-## 🤝 Let's Connect!
-
-**📧 Email:** [mukhijasamarth@gmail.com](mailto:mukhijasamarth@gmail.com)  
-**📱 Phone:** +91 81188-25586  
-**💼 LinkedIn:** [linkedin.com/in/samarth-mukhija](https://linkedin.com/in/samarth-mukhija)  
-**🐙 GitHub:** [github.com/samearth17](https://github.com/samearth17)
-
----
-
-### 💡 Open To
-🔗 Full-time opportunities  •  🤝 Collaboration & mentorship  •  📚 Learning projects  •  🚀 Building cool stuff
-
----
-
-<sup>**"Building intelligent systems that scale, solve complex problems, and create meaningful impact."**</sup>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samearth17&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+---
+
+## Achievements & Recognition
+
+<div align="center">
+
+| Award | Category | Year |
+|-------|----------|------|
+| Realms AR/VR Hackathon - Winner | Innovation | 2025 |
+| Epic IQ Challenge India - Winner | National Competition | 2020 |
+| Rajasthan Football Championship - Runner-up | Sports | 2024 |
+| Top Performer, B.Tech CSE | Academic Excellence | 2024 |
+| Multiple Tech Certifications | Professional Development | 2023-2025 |
+
+</div>
+
+**Key Metrics:**
+- Building intelligent systems for 2+ years
+- 9.1 CGPA maintained throughout degree
+- 3 major projects deployed in production
+- 100+ competitive programming problems solved
+- Multiple hackathon wins
+
+---
+
+---
+
+## Certifications & Continuous Learning
+
+<div align="center">
+
+![NPTEL IoT](https://img.shields.io/badge/NPTEL-IoT-blue?style=flat-square)
+![McKinsey Forward](https://img.shields.io/badge/McKinsey-Forward%20Program-brightgreen?style=flat-square)
+![Oracle Cloud AI](https://img.shields.io/badge/Oracle-Cloud%20AI%20Foundation-orange?style=flat-square)
+![Udemy PyScript](https://img.shields.io/badge/Udemy-PyScript-red?style=flat-square)
+![MongoDB University](https://img.shields.io/badge/MongoDB-University-green?style=flat-square)
+
+</div>
+
+---
+
+---
+
+## Leadership & Community
+
+<div align="center">
+
+| Role | Organization | Impact |
+|------|--------------|--------|
+| Event Management Co-Head | Blotic | Organized festivals for 1000+ attendees |
+| Vice Captain | College Football Team | Led team to multiple inter-college victories |
+| Technical Head | Financity 2023-24 | Built and maintained technical infrastructure |
+| Open Source Contributor | Python & Django Community | Active contributor and community builder |
+
+</div>
+
+---
+
+---
+
+## Let's Connect & Collaborate
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### Contact Information
+
+[![Email](https://img.shields.io/badge/Email-mukhijasamarth@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mukhijasamarth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samarth--mukhija-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samarth-mukhija)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2081188--25586-25D366?style=for-the-badge&logo=whatsapp)](tel:+918118825586)
+[![GitHub](https://img.shields.io/badge/GitHub-samearth17-181717?style=for-the-badge&logo=github)](https://github.com/samearth17)
+
+---
+
+### I'm Open To
+
+<div align="center">
+
+Full-time opportunities (Remote/On-site) • Collaborations & mentorship • Open-source contributions • FinTech & AI ventures
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212281763-3a328f3b-74e9-4fc3-b841-4c393d2716ae.gif" width="900">
+
+<div align="center">
+
+**"Intelligence is the ability to see what matters."**
+
+Transforming data into insights and ideas into products.
+
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+**Thanks for visiting! Don't forget to star if you like my work.**
+
+</div>
+
