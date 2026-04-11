@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-mukhija)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukhijasamarth@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samearth17)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/samearth17)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samearth17&color=58a6ff&style=flat-square)
 
@@ -229,24 +229,6 @@ Stack: `Django` `Matplotlib` `SQLite` `Background Tasks`
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samearth17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samearth17&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
----
 
 ## Achievements & Recognition
 
