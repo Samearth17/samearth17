@@ -70,7 +70,7 @@ me = Samarth()
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/AI--Powered-Solutions-0F9D58?style=for-the-badge&logo=tensorflow" />
       <p><strong>Machine Learning</strong></p>
-      <p>NLP • TensorFlow • Data Science</p>
+      <p>NLP • Data Science</p>
     </td>
   </tr>
   <tr>
