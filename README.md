@@ -6,7 +6,7 @@
 
 # Samarth Mukhija
 
-**Full-Stack Developer • AI Engineer • FinTech Specialist**
+
 
 **B.Tech CSE @ BVCE Pune (CGPA: 9.1/10) | SDE Intern @ Clarista**
 
@@ -40,12 +40,8 @@ class Samarth:
         
         self.languages   = ["Python", "JavaScript", "SQL"]
         self.frameworks  = ["Django", "REST APIs", "PostgreSQL"]
-        self.specialties = [
-            "Data Pipelines",
-            "NLP & Machine Learning",
-            "Backend Architecture",
-            "AI Integrations"
-        ]
+        
+        
         self.passion = "Building intelligent systems at scale"
     
     def get_channels(self):
