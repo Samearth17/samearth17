@@ -1,49 +1,56 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Solutions;Full-Stack+Developer+%26+AI+Engineer;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a713-7c3f-4404-b615-69f99cd50e90.gif" width="80" style="margin: 20px 0;">
-
-# Samarth Mukhija
-
-
-
-**B.Tech CSE @ BVCE Pune (CGPA: 9.1/10) | SDE Intern @ Clarista**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-mukhija)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukhijasamarth@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samearth17)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=samearth17&color=58a6ff&style=flat-square)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
+<!-- Profile Banner -->
+![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=900&lines=Samarth+Mukhija;Full-Stack+Engineer+%26+AI+Innovator;Building+Financial+Systems+%26+AI+Solutions)
 
 ---
 
+## 👋 Hey there! I'm Samarth
+
+**Full-Stack Developer | AI/ML Engineer | FinTech Specialist**  
+📍 Pune, India | 🎓 B.Tech CSE @ BVCE (9.1 CGPA) | 💼 SDE Intern @ Clarista
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samarth--mukhija-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samarth-mukhija)
+[![Email](https://img.shields.io/badge/Email-mukhijasamarth%40gmail.com-d14836?style=for-the-badge&logo=gmail)](mailto:mukhijasamarth@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Samearth17-181717?style=for-the-badge&logo=github)](https://github.com/samearth17)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Samearth17&color=58a6ff&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Samearth17?style=social)
+
 ---
 
-## About Me
+## 🎯 What I Do
 
-```python
-class Samarth:
-    def __init__(self):
-        self.name        = "Samarth Mukhija"
-        self.title       = "Full-Stack Developer & AI Engineer"
-        self.education   = "B.Tech CSE @ BVCE Pune (2023-2027) | CGPA: 9.1/10"
-        self.location    = "Pune, India"
-        self.current_role = "SDE Intern @ Clarista (FinTech AI)"
-        
-        self.languages   = ["Python", "JavaScript", "SQL"]
-        self.frameworks  = ["Django", "REST APIs", "PostgreSQL"]
-        
-        
-        self.passion = "Building intelligent systems at scale"
-    
+I build **intelligent, scalable systems** that solve real-world problems. My expertise:
+
+- 🚀 **Full-Stack Development** — Django, FastAPI, React, Next.js  
+- 🤖 **AI/ML Engineering** — NLP, Claude API, Google Gemini, TensorFlow  
+- 💰 **FinTech Systems** — Real-time analytics, IPO platforms, trading systems  
+- 📊 **Data Science** — Pandas, NumPy, predictive modeling  
+
+---
+
+## 🏆 Key Achievements
+
+| Achievement | Details | Year |
+|------------|---------|------|
+| **Realms AR/VR Hackathon** | 🥇 Winner | 2025 |
+| **Epic IQ Challenge India** | 🥇 Winner (National) | 2020 |
+| **Academic Excellence** | Top performer, B.Tech CSE | 2024 |
+| **Professional Experience** | 3 internships, 2+ years SDE | 2023-2025 |
+
+---
+
+## 💼 Current Role
+
+**SDE Intern @ Clarista** (FinTech AI)  
+Building intelligent financial advisory systems for institutional clients  
+Clients: Tata Capital, Lazard, Edelweiss
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ IPO Analytics Platform 📈
+**AI-Powered Investment Intelligence Engine**    
     def get_channels(self):
         return {
             'email': 'mukhijasamarth@gmail.com',
