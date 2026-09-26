@@ -20,11 +20,10 @@ I build **backend systems, agentic AI workflows, and developer infrastructure** 
 * [**Multi-Agent Data Extractor**](https://github.com/Samearth17/Multi-agent-Data-extractor) — multi-agent data analysis platform
 * [**SentinelOps**](https://github.com/Samearth17/sentinelops) — real-time telemetry + AI-driven SRE diagnostics
 * [**IPO Platform**](https://github.com/Samearth17/ipo-platform) — quantitative IPO analytics & recommendations
-* [**CodeSense**](https://github.com/Samearth17/Codesense) — explainable AI-assisted code analysis
 
 ### 💼 Experience
 
-**SDE Intern @ Clarista** · **SDE Intern @ MyTegami (Japan)** · **SDE Intern @ Bluestock FinTech**
+ **TECH & AI Intern Southern Command** | **SDE Intern @ Clarista** | **SDE Intern @ MyTegami (Japan)** | **SDE Intern @ Bluestock FinTech** 
 
 [LinkedIn](https://www.linkedin.com/in/samarth-mukhija-817418247/) · [GitHub](https://github.com/Samearth17) · [Email](mailto:mukhijasamarth3017@gmail.com)
 
