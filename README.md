@@ -1,20 +1,30 @@
-### Hi there, I'm Samarth Mukhija 👋
-I am a Software Engineer specializing in **Python Backend Development** and **Agentic AI Systems**. I love building scalable APIs, designing multi-agent workflows, and contributing to the open-source ecosystem.
+# Hi, I'm Samarth Mukhija 👋
 
-### Tech Stack
-- **Backend:** Python, FastAPI, Django, PostgreSQL, Supabase
-- **AI/Agentic:** LangChain, LlamaIndex, LiteLLM, Multi-Agent Architectures
-- **Tools:** Docker, Git, GitHub Actions, CI/CD
+**Software Engineer | Python Backend | AI/LLM Systems | Open Source**
 
-### Open Source Contributions
-I actively contribute to the tools I use. Recent highlights:
-- **Supabase Python SDK (`supabase-py`):** Fixed critical error-handling bugs in the Storage API to prevent masked API errors. 
-- **LiteLLM (`litellm`):** Fixed silent configuration failures in the `Router` class for disk caching logic.
+I build **backend systems, agentic AI workflows, and developer infrastructure** with Python.
 
-### Featured Projects
-- **[Multi-Agent Data Extractor](link-to-repo):** Built an agentic workflow to autonomously extract and structure complex web data.
-- **[Investo Backend (FastAPI + PostgreSQL)](link-to-repo):** Engineered a high-performance backend with moving average trading strategies.
+### What I work with
 
-### Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/samarth-mukhija-817418247/
-- Email: mukhijasamarth3017@gmail.com
+`Python` `FastAPI` `Django` `PostgreSQL` `Redis` `PyTorch` `LangChain` `LangGraph` `SQL` `Docker` `GitHub Actions`
+
+### Open Source
+
+* **Soup** — inference, benchmark reproducibility, GPU diagnostics & regression testing
+  → [Variant 2 Gate #1085](https://github.com/MakazhanAlpamys/Soup/pull/1085) · [GRADDIFF #1170](https://github.com/MakazhanAlpamys/Soup/pull/1170) · [Pinning Cost #1172](https://github.com/MakazhanAlpamys/Soup/pull/1172)
+* **Supabase Python** — Storage error handling & PostgREST performance
+* **LiteLLM** — Router caching & Anthropic passthrough
+
+### 🚀 Projects
+
+* [**Multi-Agent Data Extractor**](https://github.com/Samearth17/Multi-agent-Data-extractor) — multi-agent data analysis platform
+* [**SentinelOps**](https://github.com/Samearth17/sentinelops) — real-time telemetry + AI-driven SRE diagnostics
+* [**IPO Platform**](https://github.com/Samearth17/ipo-platform) — quantitative IPO analytics & recommendations
+* [**CodeSense**](https://github.com/Samearth17/Codesense) — explainable AI-assisted code analysis
+
+### 💼 Experience
+
+**SDE Intern @ Clarista** · **SDE Intern @ MyTegami (Japan)** · **SDE Intern @ Bluestock FinTech**
+
+[LinkedIn](https://www.linkedin.com/in/samarth-mukhija-817418247/) · [GitHub](https://github.com/Samearth17) · [Email](mailto:mukhijasamarth3017@gmail.com)
+
